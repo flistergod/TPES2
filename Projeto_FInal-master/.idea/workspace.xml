@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="es2p" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa4c122d-f7de-4f56-8cca-e0b4bda354cd" name="Default Changelist" comment="Primeiro Commit - Estrutura inicial do Projeto" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Projeto_FInal" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dele</find>
+      <find>password</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1btsfEBs1WhV7gzYDGLoBcPm5gh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592413579393" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Tests_WhiteBox" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Aplicacao_WB_Tests">
+    <configuration name="API_BB_Testes.RegistarSuccessfull_Api" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto_FInal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests_BlackBox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests_BlackBox" />
+      <option name="MAIN_CLASS_NAME" value="Tests_BlackBox.API_BB_Testes" />
+      <option name="METHOD_NAME" value="RegistarSuccessfull_Api" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Api_Stub_BB_Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto_FInal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests_BlackBox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests_BlackBox" />
+      <option name="MAIN_CLASS_NAME" value="Tests_BlackBox.Api_Stub_BB_Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aplicacao_WB_Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto_FInal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests_WhiteBox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests_WhiteBox" />
+      <option name="MAIN_CLASS_NAME" value="Tests_WhiteBox.Aplicacao_WB_Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aplicacao_WB_Tests.switchRegistar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto_FInal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests_WhiteBox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests_WhiteBox" />
+      <option name="MAIN_CLASS_NAME" value="Tests_WhiteBox.Aplicacao_WB_Tests" />
+      <option name="METHOD_NAME" value="switchRegistar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stub_WB_Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto_FInal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests_WhiteBox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests_WhiteBox" />
+      <option name="MAIN_CLASS_NAME" value="Tests_WhiteBox.Stub_WB_Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Aplicacao_WB_Tests" />
+        <item itemvalue="JUnit.Aplicacao_WB_Tests.switchRegistar" />
+        <item itemvalue="JUnit.API_BB_Testes.RegistarSuccessfull_Api" />
+        <item itemvalue="JUnit.Stub_WB_Tests" />
+        <item itemvalue="JUnit.Api_Stub_BB_Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa4c122d-f7de-4f56-8cca-e0b4bda354cd" name="Default Changelist" comment="" />
+      <created>1589116817177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589116817177</updated>
+      <workItem from="1589462831042" duration="47000" />
+      <workItem from="1589729018871" duration="773000" />
+      <workItem from="1589787885870" duration="11940000" />
+      <workItem from="1589876162067" duration="20119000" />
+      <workItem from="1589998190085" duration="11673000" />
+      <workItem from="1590056056450" duration="3309000" />
+      <workItem from="1590142051958" duration="75000" />
+      <workItem from="1590142138125" duration="9530000" />
+      <workItem from="1590240683461" duration="3118000" />
+      <workItem from="1590324077026" duration="3298000" />
+      <workItem from="1590334083923" duration="17129000" />
+      <workItem from="1590393570873" duration="13756000" />
+      <workItem from="1590483713678" duration="14219000" />
+      <workItem from="1590612895959" duration="313000" />
+      <workItem from="1590679444093" duration="1815000" />
+      <workItem from="1590748235452" duration="12426000" />
+      <workItem from="1590965096455" duration="1255000" />
+      <workItem from="1591008787994" duration="12852000" />
+      <workItem from="1591288074086" duration="5881000" />
+      <workItem from="1591999478824" duration="679000" />
+      <workItem from="1592067697729" duration="9645000" />
+      <workItem from="1592501267742" duration="15328000" />
+      <workItem from="1592554182175" duration="8823000" />
+      <workItem from="1592586556261" duration="14000" />
+      <workItem from="1592587099992" duration="448000" />
+      <workItem from="1592669913150" duration="2917000" />
+      <workItem from="1592848011014" duration="2666000" />
+      <workItem from="1593382770180" duration="131000" />
+      <workItem from="1593417345717" duration="2066000" />
+      <workItem from="1593599235744" duration="9032000" />
+      <workItem from="1593686116287" duration="6332000" />
+      <workItem from="1593789946355" duration="1204000" />
+      <workItem from="1593950672988" duration="3127000" />
+      <workItem from="1593966208083" duration="21000" />
+    </task>
+    <task id="LOCAL-00001" summary="Primeiro Commit - Estrutura inicial do Projeto">
+      <created>1589117319346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589117319347</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Primeiro Commit - Estrutura inicial do Projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit - Estrutura inicial do Projeto" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593790867115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1593790867115" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1590423307645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590179486704" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590423307645" />
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1592501296543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1592501296543" />
+    <state x="2516" y="289" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590520134384">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2516" y="289" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590520134384" />
+    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1590356666022">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590024365618" />
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590356666022" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1593966078056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1592678461047" />
+    <state width="1557" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1592531579046" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593966078056" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1593966078056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1592678461046" />
+    <state width="1557" height="219" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1592531579046" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593966078056" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1593966078056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1592678461046" />
+    <state width="1557" height="219" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1592531579046" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593966078056" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1593966078056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1592678461047" />
+    <state width="1557" height="219" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1592531579046" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593966078056" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593690117347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590517637001" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590535859347" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593690117347" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1593690117347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590517637001" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590535859347" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593690117347" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1593690117347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590517637001" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590535859347" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593690117347" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1593690117347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590517637001" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590535859347" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593690117347" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1592678397397">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1592678397397" />
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589462840932" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1593966209093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1592669926199" />
+    <state x="2404" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1590679444120" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593966209093" />
+    <state x="526" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589973614786">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1589973614786" />
+    <state x="2127" y="-17" width="1142" height="811" maximized="true" key="dock-window-1" timestamp="1589985210391">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2127" y="-17" width="1142" height="811" maximized="true" key="dock-window-1/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1589985210391" />
+    <state x="2011" y="0" width="1142" height="811" maximized="true" key="dock-window-2" timestamp="1589985210391">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2011" y="0" width="1142" height="811" maximized="true" key="dock-window-2/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1589985210391" />
+    <state x="511" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1590517878060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1590517878060" />
+    <state x="511" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1590335160292" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1589815181096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1589815181096" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592585052244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1600.860@0.0.1536.824" timestamp="1589973480193" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592585052244" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/Tests_WhiteBox/Stub_WB_Tests.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/es2/Projeto_FInal/Aplicacao.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/es2/Projeto_FInal/Aplicacao.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
